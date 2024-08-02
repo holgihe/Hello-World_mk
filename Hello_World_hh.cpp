@@ -1,4 +1,4 @@
-#New comment done on githug - 02.Aug. 21:12, 21:25
+//New comment done on githug - 02.Aug. 21:12, 21:25
 #include <iostream>
 
 int main()

@@ -5,8 +5,7 @@ all: hello_world_hh
 
 # This rule tells make how to build hello from hello.cpp
 hello_world_hh: Hello_World_hh.cpp
-
-    g++ -o hello_world_hh  Hello_World_hh.cpp
+	g++ -o hello_world_hh  Hello_World_hh.cpp
 
 # This rule tells make to copy hello to the binaries subdirectory,
 # creating it if necessary
